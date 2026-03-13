@@ -32,27 +32,36 @@
 ### ⚡ Core Language
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![Async](https://img.shields.io/badge/asyncio-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![uvloop](https://img.shields.io/badge/uvloop-000000?style=for-the-badge&logo=python&logoColor=39ff14)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=node.js&logoColor=39ff14)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Vue](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vue.js&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=39ff14)
 
-### 🤖 Bot Frameworks & Messaging
 
+### 🤖 Frameworks
+![Python-telegram-bot](https://img.shields.io/badge/Python--telegram--bot-000000?style=for-the-badge&logo=telegram&logoColor=00ff41)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-000000?style=for-the-badge&logo=telegram&logoColor=00ff41)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-000000?style=for-the-badge&logo=telegram&logoColor=39ff14)
-![MTProto](https://img.shields.io/badge/MTProto-000000?style=for-the-badge&logo=telegram&logoColor=00ff41)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00ff41)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00ff41)
+![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=39ff14)
+![WinUI](https://img.shields.io/badge/WinUI-000000?style=for-the-badge&logo=windows&logoColor=00ff41)
 
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39ff14)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00ff41)
 
 ### 🐳 DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-000000?style=for-the-badge&logo=docker&logoColor=39ff14)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
-![Systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=39ff14)
+
 
 ### 🔌 API Integration & Automation
 
@@ -62,70 +71,6 @@
 ![Navidrome](https://img.shields.io/badge/Navidrome_API-000000?style=for-the-badge&logo=navidrome&logoColor=39ff14)
 ![YouTube](https://img.shields.io/badge/YouTube_API-000000?style=for-the-badge&logo=youtube&logoColor=00ff41)
 
-### 📦 Libraries & Tools
-
-![Pillow](https://img.shields.io/badge/Pillow-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39ff14)
-![APScheduler](https://img.shields.io/badge/APScheduler-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![Loguru](https://img.shields.io/badge/Loguru-000000?style=for-the-badge&logo=python&logoColor=39ff14)
-![aiohttp](https://img.shields.io/badge/aiohttp-000000?style=for-the-badge&logo=aiohttp&logoColor=00ff41)
-![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=39ff14)
-
-</div>
-
----
-
-## `$ ls -la ~/projects/`
-
-<div align="center">
-
-| `PROJECT` | `DOMAIN` | `STACK` | `STARS` |
-|:---|:---|:---|:---:|
-| **[🎬 FeiyueSakura_embyboss](https://github.com/dddddluo/FeiyueSakura_embyboss)** | Emby 媒体服务器管理机器人 · MoviePilot 求片集成 | `Python` `Pyrogram` `MySQL` `Docker` | ![stars](https://img.shields.io/github/stars/dddddluo/FeiyueSakura_embyboss?style=flat-square&labelColor=000000&color=00ff41&logo=github&logoColor=00ff41) |
-| **[🎵 NavidromeBot](https://github.com/dddddluo/NavidromeBot)** | Telegram 管理 Navidrome 用户的机器人 | `Python` `MongoDB` `REST API` `Docker` | ![stars](https://img.shields.io/github/stars/dddddluo/NavidromeBot?style=flat-square&labelColor=000000&color=00ff41&logo=github&logoColor=00ff41) |
-| **[🎞️ Sakura_jellyfinboss](https://github.com/dddddluo/Sakura_jellyfinboss)** | Jellyfin 媒体服务器管理机器人 | `Python` `Pyrogram` `Jellyfin API` `Docker` | ![stars](https://img.shields.io/github/stars/dddddluo/Sakura_jellyfinboss?style=flat-square&labelColor=000000&color=00ff41&logo=github&logoColor=00ff41) |
-| **[🤖 nami_bot](https://github.com/dddddluo/nami_bot)** | Telegram 自动化机器人 | `Python` `Telegram Bot API` | ![stars](https://img.shields.io/github/stars/dddddluo/nami_bot?style=flat-square&labelColor=000000&color=00ff41&logo=github&logoColor=00ff41) |
-| **[📊 youtube_an](https://github.com/dddddluo/youtube_an)** | YouTube 数据分析工具 | `Python` `YouTube API` `NumPy` | ![stars](https://img.shields.io/github/stars/dddddluo/youtube_an?style=flat-square&labelColor=000000&color=00ff41&logo=github&logoColor=00ff41) |
-
-</div>
-
----
-
-## `$ htop --skills`
-
-<div align="center">
-
-```
-Python         ████████████████████  100%
-Docker         ████████████████░░░░   80%
-Telegram Bots  ████████████████████  100%
-REST APIs      ██████████████████░░   90%
-MongoDB        ████████████████░░░░   80%
-MySQL          ██████████████░░░░░░   70%
-Async Python   ████████████████████  100%
-Linux/Systemd  █████████████████░░░   85%
-Image Process  ████████████░░░░░░░░   60%
-Data Analysis  █████████████░░░░░░░   65%
-```
-
-</div>
-
----
-
-## `$ cat /var/log/domains.log`
-
-<div align="center">
-
-```
-[INFO]  ✅ Telegram Bot Development     — Pyrogram MTProto · asyncio · Bot API
-[INFO]  ✅ Media Server Automation      — Emby · Jellyfin · Navidrome management
-[INFO]  ✅ Self-hosted Solutions        — Docker · Compose · Systemd services
-[INFO]  ✅ REST API Integration         — Third-party API clients & auth flows
-[INFO]  ✅ Database Engineering         — MongoDB · MySQL · SQLAlchemy ORM
-[INFO]  ✅ Async / Concurrent Systems   — uvloop · asyncio · aiohttp
-[INFO]  ✅ Data Processing              — NumPy · Pillow · YouTube Analytics
-[INFO]  ✅ DevOps & Containerization    — Dockerfile · docker-compose · CI/CD
-```
 
 </div>
 
