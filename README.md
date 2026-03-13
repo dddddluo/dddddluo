@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003300,100:00ff41&height=220&section=header&text=dddddluo&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=root%40github%3A~%23%20hack%20the%20planet&descAlignY=55&descAlign=50&descSize=18&descColor=39ff14" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%5Broot%40dddddluo+~%5D%23+python+main.py+--mode+hacker;%3E+Bot+Developer+%7C+Self-hosted+%7C+Automation+Enthusiast)](https://git.io/typing-svg)
 
 </div>
@@ -59,27 +57,8 @@
 
 ---
 
-## `$ curl https://api.github.com/stats/dddddluo`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dddddluo&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=39ff14&border_color=00ff41&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dddddluo&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00ff41&text_color=00ff41&border_color=00ff41&hide_border=false&langs_count=6" />
-
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dddddluo&theme=matrix&background=000000&border=00FF41&stroke=00FF41&ring=39ff14&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=39ff14&sideLabels=39ff14&dates=00ff41)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=dddddluo&label=SYSTEM%20ACCESS%20COUNT&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
 
 </div>
