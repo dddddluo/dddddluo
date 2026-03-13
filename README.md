@@ -8,23 +8,6 @@
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM IDENTIFICATION                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  USER   : dddddluo                                           ║
-║  LANG   : Python                                             ║
-║  DOMAIN : Bot Dev · Media Automation · Self-hosted · API     ║
-║  STATUS : [████████████] ONLINE                             ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## `$ cat /proc/tech_stack`
 
 <div align="center">
